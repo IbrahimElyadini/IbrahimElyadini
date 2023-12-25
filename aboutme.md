@@ -11,6 +11,7 @@ I am very interested in embedded systems both hardware and software.
 
 ### Embedded Systems
 - [X] Microcontroller Programming
+- [X] Microcontroller interfacing
       
 ### Hardware Description Languages
 - [X] Verilog
@@ -19,7 +20,7 @@ I am very interested in embedded systems both hardware and software.
 ### Protocols
 - [X] I2C
 - [X] SPI
-- [X] UART
+- [X] USART
 
 
 ### Microcontroller Platforms
@@ -38,7 +39,7 @@ I am very interested in embedded systems both hardware and software.
 - [X] Arduino IDE
 
 ### Communication Protocols
-- [X] UART
+- [X] USART
 - [X] Bluetooth Low Energy (BLE)
 - [X] Wi-Fi
 - [X] Zigbee
