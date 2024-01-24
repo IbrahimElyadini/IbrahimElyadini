@@ -1,12 +1,13 @@
-Hi I'm Ibrahim Elyadini a student in computer engineering at Polytechnique Montreal. 2023-expected 2028
+Hi I'm Ibrahim Elyadini a student in computer engineering at Polytechnique Montreal. 2023-expected 2027
 I've done a DEC in Electrical engineering technology at Dawson college.
-I am very interested in embedded systems both hardware and software.
+I am very interested in cyber security as well as embedded systems both hardware and software.
 
 ## Skills
 
 ### Programming Languages
 - [X] C
 - [X] C++
+- [X] Python
 - [X] Assembly Language (AVR)
 
 ### Embedded Systems
